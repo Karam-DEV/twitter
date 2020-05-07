@@ -1,0 +1,14 @@
+flask
+Jinja2
+python-dotenv
+flask-sqlalchemy
+pymysql
+flask-login
+Flask-Migrate
+Flask-Script
+flask-restful
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+flask-gravatar
+flask-jwt-extended
